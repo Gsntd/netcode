@@ -13,6 +13,7 @@ namespace netcode.Controllers
         public IActionResult Index()
         {
             string tijiao = string.Empty;
+            string tijiao = string.Empty;
             return View();
         }
 
