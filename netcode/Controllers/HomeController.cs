@@ -14,7 +14,7 @@ namespace netcode.Controllers
         {
             string tijiao = string.Empty;
             string tijiao1 = string.Empty;
-            string tijiao1 = string.Empty;
+            string tijiao = string.Empty;
             return View();
         }
 
